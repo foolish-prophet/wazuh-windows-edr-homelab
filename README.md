@@ -63,6 +63,24 @@ Reduced excessive authentication noise by tuning routine Windows events:
 
 while maintaining security visibility.
 
+## Lab Screenshots
+
+### Wazuh Agent Connected
+
+![Wazuh Agent Connected](screenshots/wazuh-agent-connected.png)
+
+### Sysmon Detection Alert
+
+![Sysmon Detection Alert](screenshots/sysmon-detection-alert.png)
+
+### Failed Login Investigation
+
+![Failed Login Investigation](screenshots/login-failure-investigation.png)
+
+### Alert Investigation
+
+![Alert Investigation](screenshots/alert-investigation.png)
+
 ## Skills Demonstrated
 
 - SIEM administration
@@ -72,3 +90,7 @@ while maintaining security visibility.
 - Alert triage
 - False positive investigation
 - Detection tuning
+
+## Documentation
+
+- [Lab Setup](documentation/lab-setup.md)
